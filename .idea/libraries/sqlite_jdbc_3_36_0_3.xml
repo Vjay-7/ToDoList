@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.36.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Java WorkSpace/1 ToDoList_Calendar PIT/Lib/sqlite-jdbc-3.36.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
